@@ -4,6 +4,7 @@ Decision‑support tool comparing net salary by country.
 Tax Route is an AI‑assisted decision‑support tool that helps tax residents from EU compare their net salary across different countries and understand where they could keep more of their income, without replacing professional tax advice.
 
 **What is Tax Route?**
+
 Choosing where to live and work has a huge impact on how much of your salary you actually keep after taxes and social contributions. Today, figuring this out means searching many websites, reading complex rules, and manually running numbers in different calculators.
 
 Tax Route turns this into a guided, structured experience.
@@ -22,6 +23,7 @@ This repository contains the public shell of the project: documentation, high‑
 
 
 **Features**
+
 Salary‑based comparison for Spanish residents
 Start with Spanish tax residency and compare your net salary against a curated list of other countries.
 
@@ -40,6 +42,7 @@ The architecture is built so new countries, more detailed regimes, or business�
 
 
 **Architecture**
+
 Tax Route is split into two logical parts:
 
 Public Shell (this repository)
@@ -72,4 +75,5 @@ Data: Structured country sheets in JSON/YAML, versioned alongside the engine
 CI/CD: GitHub Actions to run tests on each change to the core logic
 
 **⚠️ Important Disclaimer**
+
 Tax Route is a decision‑support tool for educational and planning purposes only. It does not provide tax, legal, or financial advice. Actual tax outcomes depend on full personal and factual circumstances and on up‑to‑date laws and regulations. Always consult a qualified professional before making decisions about residence, employment, or company structure.
