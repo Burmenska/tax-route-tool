@@ -4,6 +4,8 @@ Decision‑support tool comparing net salary by country.
 
 Tax Route is an AI‑assisted decision‑support tool that helps tax residents from EU compare their net salary across different countries and understand where they could keep more of their income, without replacing professional tax advice.
 
+Tool is currently in progress. 
+
 ## What is Tax Route?
 
 Choosing where to live and work has a huge impact on how much of your salary you actually keep after taxes and social contributions. Today, figuring this out means searching many websites, reading complex rules, and manually running numbers in different calculators.
